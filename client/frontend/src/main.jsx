@@ -3,7 +3,7 @@ import { createRoot } from "react-dom/client";
 import { io } from "socket.io-client";
 import "./style.css";
 
-const socket = io(`http://${window.location.hostname}:4000`, {
+const socket = io("https://ai-prediction-market.onrender.com", {
   autoConnect: true,
 });
 
