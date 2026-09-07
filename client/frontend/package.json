@@ -6,7 +6,7 @@
   "scripts": {
   "test": "echo \"Error: no test specified\" && exit 1",
   "dev": "vite --host 0.0.0.0",
-  "build": "vite",
+ "build": "node node_modules/vite/bin/vite.js",
   "preview": "vite preview"
 },
   "keywords": [],
