@@ -1,0 +1,30 @@
+{
+  "teams": [
+    {
+      "id": "TEAM01",
+      "name": "Test Team",
+      "coins": 70,
+      "correct": 7,
+      "violations": 38,
+      "roundScores": {
+        "1": 0,
+        "2": 20,
+        "3": 0
+      },
+      "totalScore": 20,
+      "pinHash": "3a6b3ac3d17e92990c776357a3ee47b9ae601c157b51944b959324cb08f968085d3cc6b444f1094aa6f8e73be22ccca8aa8fa101640471f99fe2a2051848fa8a",
+      "pinSalt": "13c19052654f12d62a4b5b871105da1d",
+      "prediction": "RIGHT",
+      "investment": 30,
+      "locked": true,
+      "lastResult": {
+        "aiRight": false,
+        "decisionCorrect": false,
+        "invested": 30,
+        "scoreChange": -30,
+        "prediction": "RIGHT",
+        "actualAnswer": "RIGHT"
+      }
+    }
+  ]
+}

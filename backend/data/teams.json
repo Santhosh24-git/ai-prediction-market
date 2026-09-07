@@ -1,0 +1,22 @@
+[
+  {
+    "id": "test team",
+    "name": "test team",
+    "passwordHash": "03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4",
+    "coins": 40,
+    "correct": 0,
+    "violations": 4,
+    "locked": true,
+    "disqualified": true
+  },
+  {
+    "id": "rangers",
+    "name": "rangers",
+    "passwordHash": "5994471abb01112afcc18159f6cc74b4f511b99806da59b3caf5a9c173cacfc5",
+    "coins": 50,
+    "correct": 0,
+    "violations": 1,
+    "locked": false,
+    "disqualified": false
+  }
+]

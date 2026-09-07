@@ -1,0 +1,13 @@
+{
+  "name": "ai-prediction-market-v2",
+  "private": true,
+  "scripts": {
+    "dev": "concurrently \"node server/server.js\" \"npm --prefix client run dev\""
+  },
+  "dependencies": {
+    "concurrently": "^9.2.1",
+    "cors": "^2.8.6",
+    "express": "^5.2.1",
+    "socket.io": "^4.8.3"
+  }
+}

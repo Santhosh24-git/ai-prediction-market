@@ -1,0 +1,202 @@
+[
+  {
+    "id": "R1Q1",
+    "round": 1,
+    "difficulty": "Easy",
+    "category": "Logic",
+    "challenge": "If all cats are animals and Tom is a cat, is the statement 'Tom is an animal' RIGHT or WRONG?",
+    "aiPrediction": "RIGHT",
+    "actualAnswer": "RIGHT"
+  },
+  {
+    "id": "R1Q2",
+    "round": 1,
+    "difficulty": "Easy",
+    "category": "Numbers",
+    "challenge": "Is 15 a multiple of 4?",
+    "aiPrediction": "RIGHT",
+    "actualAnswer": "WRONG"
+  },
+  {
+    "id": "R1Q3",
+    "round": 1,
+    "difficulty": "Easy",
+    "category": "Programming",
+    "challenge": "In most programming languages, does a loop repeat a block of instructions?",
+    "aiPrediction": "WRONG",
+    "actualAnswer": "RIGHT"
+  },
+  {
+    "id": "R1Q4",
+    "round": 1,
+    "difficulty": "Easy",
+    "category": "Technology",
+    "challenge": "Is RAM used to temporarily store data that programs are currently using?",
+    "aiPrediction": "WRONG",
+    "actualAnswer": "RIGHT"
+  },
+  {
+    "id": "R1Q5",
+    "round": 1,
+    "difficulty": "Medium",
+    "category": "Logic",
+    "challenge": "If today is Monday, will the day after tomorrow be Wednesday?",
+    "aiPrediction": "RIGHT",
+    "actualAnswer": "RIGHT"
+  },
+
+  {
+    "id": "R2Q1",
+    "round": 2,
+    "difficulty": "Medium",
+    "category": "Algorithms",
+    "challenge": "Does binary search require the data to be sorted before searching?",
+    "aiPrediction": "RIGHT",
+    "actualAnswer": "RIGHT"
+  },
+  {
+    "id": "R2Q2",
+    "round": 2,
+    "difficulty": "Medium",
+    "category": "Numbers",
+    "challenge": "Is 2 raised to the power of 5 equal to 25?",
+    "aiPrediction": "RIGHT",
+    "actualAnswer": "WRONG"
+  },
+  {
+    "id": "R2Q3",
+    "round": 2,
+    "difficulty": "Medium",
+    "category": "Probability",
+    "challenge": "When a fair coin is tossed once, is the probability of getting heads 50%?",
+    "aiPrediction": "WRONG",
+    "actualAnswer": "RIGHT"
+  },
+  {
+    "id": "R2Q4",
+    "round": 2,
+    "difficulty": "Medium",
+    "category": "AI",
+    "challenge": "Can a machine learning model make incorrect predictions even when it has been trained on a large dataset?",
+    "aiPrediction": "RIGHT",
+    "actualAnswer": "RIGHT"
+  },
+  {
+    "id": "R2Q5",
+    "round": 2,
+    "difficulty": "Medium",
+    "category": "Data Structures",
+    "challenge": "Is a stack based on the Last In, First Out principle?",
+    "aiPrediction": "WRONG",
+    "actualAnswer": "RIGHT"
+  },
+  {
+    "id": "R2Q6",
+    "round": 2,
+    "difficulty": "Hard",
+    "category": "Logic",
+    "challenge": "If every programmer is a problem solver, and some students are programmers, can we conclude that some students are problem solvers?",
+    "aiPrediction": "RIGHT",
+    "actualAnswer": "RIGHT"
+  },
+  {
+    "id": "R2Q7",
+    "round": 2,
+    "difficulty": "Hard",
+    "category": "Algorithms",
+    "challenge": "Does an algorithm with O(n) time complexity always run faster than an algorithm with O(log n) time complexity for every possible input size?",
+    "aiPrediction": "WRONG",
+    "actualAnswer": "WRONG"
+  },
+
+  {
+    "id": "R3Q1",
+    "round": 3,
+    "difficulty": "Hard",
+    "category": "AI",
+    "challenge": "Can a highly confident AI prediction still be incorrect?",
+    "aiPrediction": "RIGHT",
+    "actualAnswer": "RIGHT"
+  },
+  {
+    "id": "R3Q2",
+    "round": 3,
+    "difficulty": "Hard",
+    "category": "Probability",
+    "challenge": "If a fair six-sided die is rolled once, is the probability of rolling a 7 equal to 1/6?",
+    "aiPrediction": "RIGHT",
+    "actualAnswer": "WRONG"
+  },
+  {
+    "id": "R3Q3",
+    "round": 3,
+    "difficulty": "Hard",
+    "category": "Programming",
+    "challenge": "Does recursion always require a base case to prevent infinite recursive calls?",
+    "aiPrediction": "WRONG",
+    "actualAnswer": "RIGHT"
+  },
+  {
+    "id": "R3Q4",
+    "round": 3,
+    "difficulty": "Hard",
+    "category": "Data Structures",
+    "challenge": "In a binary search tree, is every value in the left subtree smaller than the node value in the standard BST definition?",
+    "aiPrediction": "RIGHT",
+    "actualAnswer": "RIGHT"
+  },
+  {
+    "id": "R3Q5",
+    "round": 3,
+    "difficulty": "Hard",
+    "category": "AI",
+    "challenge": "Does increasing the amount of training data automatically guarantee that a machine learning model will achieve 100% accuracy?",
+    "aiPrediction": "WRONG",
+    "actualAnswer": "WRONG"
+  },
+  {
+    "id": "R3Q6",
+    "round": 3,
+    "difficulty": "Hard",
+    "category": "Logic",
+    "challenge": "If a statement is true, is its logical negation also necessarily true?",
+    "aiPrediction": "RIGHT",
+    "actualAnswer": "WRONG"
+  },
+  {
+    "id": "R3Q7",
+    "round": 3,
+    "difficulty": "Hard",
+    "category": "Algorithms",
+    "challenge": "Can two different algorithms have the same Big-O time complexity but perform differently in practice?",
+    "aiPrediction": "WRONG",
+    "actualAnswer": "RIGHT"
+  },
+  {
+    "id": "R3Q8",
+    "round": 3,
+    "difficulty": "Hard",
+    "category": "Probability",
+    "challenge": "If an event has probability 0, does that always mean the event is logically impossible in every probability model?",
+    "aiPrediction": "RIGHT",
+    "actualAnswer": "WRONG"
+  },
+  {
+    "id": "R3Q9",
+    "round": 3,
+    "difficulty": "Hard",
+    "category": "Computer Science",
+    "challenge": "Can a computer program contain a logical error even when the program successfully compiles?",
+    "aiPrediction": "WRONG",
+    "actualAnswer": "RIGHT"
+  },
+  {
+    "id": "R3Q10",
+    "round": 3,
+    "difficulty": "Hard",
+    "category": "Critical Thinking",
+    "challenge": "Does correlation between two variables by itself prove that one variable causes the other?",
+    "aiPrediction": "RIGHT",
+    "actualAnswer": "WRONG"
+  }
+]

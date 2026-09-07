@@ -1,0 +1,5 @@
+{
+  "type":"module",
+  "scripts":{"dev":"vite --host 0.0.0.0"},
+  "dependencies":{"@vitejs/plugin-react":"latest","react":"latest","react-dom":"latest","socket.io-client":"latest","vite":"latest"}
+}
